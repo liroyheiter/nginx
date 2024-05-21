@@ -6,6 +6,6 @@ app = FastAPI()
  
 @app.get("/")
 async def main():
-    return "hello, skuf)"
+    return "hello, dura)"
  
 import uvicorn
