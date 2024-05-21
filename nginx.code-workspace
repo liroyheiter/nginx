@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "nginx",
+			"path": "."
+		},
+		{
+			"name": "servback",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"debug.internalConsoleOptions": "neverOpen"
+	}
+}
